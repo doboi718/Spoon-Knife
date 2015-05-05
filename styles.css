@@ -9,6 +9,12 @@
   margin: 50px auto;
 }
 
+#spork {
+  display: block;
+  width:960px;
+  margin: 50px auto;
+}
+
 p {
   display: block;
   width: 400px;
